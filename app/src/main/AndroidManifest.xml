@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidGeographyTests">
         <activity
+            android:screenOrientation="locked"
             android:name=".Activities.MainActivity"
             android:exported="true">
             <intent-filter>
@@ -17,6 +18,10 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".Activities.HomeActivity"
+            android:screenOrientation="sensor"
+            android:exported="true">
         </activity>
     </application>
 

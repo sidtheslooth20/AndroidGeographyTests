@@ -9,8 +9,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.androidgeographytests"
-        minSdk 21
-        targetSdk 32
+        minSdk 26
+        targetSdk 30
         versionCode 1
         versionName "1.0"
 
@@ -33,7 +33,7 @@ android {
 }
 
 dependencies {
-
+    implementation 'com.github.tarek360.RichPath:animator:0.1.1'
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.5.0'

@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="803dp"
+    android:height="415dp"
+    android:viewportWidth="803"
+    android:viewportHeight="415">
+  <path
+      android:name="adygea"
+      android:pathData="M32.111,282.897l0.182,3.081l3.445,1.632l4.901,-5.409l0.356,-0.392l0.544,4.352l2.9,-3.809l0.182,-3.987l-2.094,-1.744l-0.082,-0.07l-0.006,-0.105l-0.175,-2.976l-3.083,0l-0.07,-0.113l-2.105,-3.334l-2.538,-0.904l-0.363,2.719l2.9,3.443l0.001,0l0,0.003l2.597,1.623l0.303,0.189l-0.285,0.21l-3.883,2.871l-0.002,0.002l0,2.356l-0.219,0.023l-3.406,0.339"
+      android:strokeWidth="1"
+      android:fillColor="#f02f00"
+      android:fillType="evenOdd"
+      android:strokeColor="#00000000"/>
+</vector>

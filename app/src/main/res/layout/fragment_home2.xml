@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_height="match_parent"
-    android:layout_width="match_parent"
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <ImageView android:layout_width="wrap_content"
+    <com.richpath.RichPathView
+        android:id="@+id/rpView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/image_1"
-        android:src="@drawable/ic_mother_russia"
+        app:vector="@drawable/ic_mother_russia"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
-
-    <ImageView android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/image_2"
-        android:src="@drawable/ic_mother_russia_2"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintBottom_toTopOf="@id/textView"/>
+    <TextView android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:id="@+id/textView"
+        android:text="HI"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"/>
 
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+</RelativeLayout>

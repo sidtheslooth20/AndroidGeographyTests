@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tarek360.RichPath:richpath:0.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/18bf3b307011731a4fcce1b783a0e8ba/transformed/jetified-richpath-0.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/18bf3b307011731a4fcce1b783a0e8ba/transformed/jetified-richpath-0.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/18bf3b307011731a4fcce1b783a0e8ba/transformed/jetified-richpath-0.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f3363b31a93e7827504cdbe54be7a0fe/transformed/jetified-richpath-0.1.1/jars/classes.jar!/" />
+    </SOURCES>
+  </library>
+</component>

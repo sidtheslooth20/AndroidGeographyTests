@@ -3,18 +3,110 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_adygea.xml" value="0.264" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_altay.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_amurskaya.xml" value="0.2" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_arkhangelskaya.xml" value="0.72" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_astrakhanskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_bashkortostan.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_belgorodskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_bryanskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_buryatia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_chao.xml" value="0.4" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_checnya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_chelyabinskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_chuvashia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_crimea.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_dagestan.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_evreiskaya.xml" value="0.264" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_hakassia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_hmao.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_ingushetiya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_irkutskaya.xml" value="0.264" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_ivanovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kabardino_balkariya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kabardinobalkariya.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kaliningradskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kalmykia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kaluzhskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kamchatka.xml" value="0.264" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_karachaevo_cherkessia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_karachaevocherkessia.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_karelia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kemerovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_khabarovskiy.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kirovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_komi.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kostromskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_krasnodarskiy.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_krasnoyarskiy.xml" value="0.2" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kurganskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_kurskaya.xml" value="0.4" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_leningradskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_lipetskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_magadanskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_mari-el.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_mari_el.xml" value="0.4" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_mariel.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_mordovia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_moskovskaya.xml" value="0.1390625" />
         <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_mother_russia_2.xml" value="0.14635416666666667" />
-        <entry key="..\:/GTest/app/src/main/res/drawable/ic_hello_screen.xml" value="0.14635416666666667" />
-        <entry key="..\:/GTest/app/src/main/res/drawable/ic_mother_russia.xml" value="0.72" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_murmanskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_nao.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_nizhegorodskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_novgorodskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_novosibirskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_omskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_orenburgskaya.xml" value="0.4" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_orlovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_osetia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_penzenskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_permskiy.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_primorskiy.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_pskovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_republic_altay.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_rostovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_ryazanskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_sakhalinskaya.xml" value="0.4" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_samarskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_saratovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_smolenskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_stavropolskiy.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_sverdlovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tambovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tatarstan.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tomskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tulskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tverskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tyumenskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_tyva.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_udmurtia.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_ulyanovskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_vladimirskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_volgogradskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_vologodskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_voronezhskaya.xml" value="1.2" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_yakutia.xml" value="0.6" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_yanao.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_yaroslavskaya.xml" value="0.1390625" />
+        <entry key="..\:/GTest/app/src/main/res/drawable-v24/ic_zabaikalie.xml" value="0.72" />
+        <entry key="..\:/GTest/app/src/main/res/drawable/ic_europe.xml" value="0.10104166666666667" />
+        <entry key="..\:/GTest/app/src/main/res/drawable/ic_hello_screen.xml" value="0.2" />
+        <entry key="..\:/GTest/app/src/main/res/drawable/ic_image.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/drawable/ic_mother_russia.xml" value="1.6" />
+        <entry key="..\:/GTest/app/src/main/res/drawable/selector.xml" value="0.2703125" />
+        <entry key="..\:/GTest/app/src/main/res/layout-land/fragment_home2.xml" value="0.21516754850088182" />
         <entry key="..\:/GTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/GTest/app/src/main/res/layout/fragment_first_screen.xml" value="0.13020833333333334" />
         <entry key="..\:/GTest/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
-        <entry key="..\:/GTest/app/src/main/res/layout/fragment_home2.xml" value="0.25416666666666665" />
+        <entry key="..\:/GTest/app/src/main/res/layout/fragment_home2.xml" value="0.176" />
         <entry key="..\:/GTest/app/src/main/res/layout/fragment_map.xml" value="0.13020833333333334" />
+        <entry key="..\:/GTest/app/src/main/res/layout/fragment_menu.xml" value="0.264" />
         <entry key="..\:/GTest/app/src/main/res/layout/fragment_second_screen.xml" value="0.13020833333333334" />
         <entry key="..\:/GTest/app/src/main/res/layout/fragment_splash.xml" value="0.25416666666666665" />
-        <entry key="..\:/GTest/app/src/main/res/layout/fragment_third_screen.xml" value="0.13020833333333334" />
+        <entry key="..\:/GTest/app/src/main/res/layout/fragment_third_screen.xml" value="0.264" />
         <entry key="..\:/GTest/app/src/main/res/layout/fragment_view_pager.xml" value="0.13020833333333334" />
+        <entry key="..\:/GTest/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
